@@ -29,7 +29,7 @@ Leetmatric is a simple web app that displays LeetCode user statistics such as pr
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/your-username/leetmatric.git
+git clone https://github.com/your-username/leetmatric.git (https://github.com/DKSHRI/leetcodestatsfinder.git)
 cd leetmatric
 open index.html
 leetmatric/
